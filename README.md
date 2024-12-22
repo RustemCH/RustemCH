@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm rustemch</h1>
+<h1 align="center">Hi 👋, I'm rustem</h1>
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
 https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif
 
